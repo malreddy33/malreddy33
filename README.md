@@ -1,9 +1,8 @@
 <img src="https://github.com/malreddy33/malreddy33/blob/156b33c546a63eb0fa4250537783663b01c0f313/images/github_banner.png">
 
 # malreddy33
-> Full-Stack Developer | Machine Learning Engineer | Cloud Solutions Architect
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkdein-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://edin.com/in/malreddy-pedaballi-1a81b02b1)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkdein-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malreddy-pedaballi-1a81b02b1/)
 [![Instagram Badge](https://img.shields.io/badge/-@_malreddy_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_malreddy_)
 
 
@@ -151,8 +150,3 @@ As a technologist from India, I leverage diverse technologies to architect solut
   <b>Note:</b> Top languages don't indicate my skill level, it's a GitHub metric showing languages I have the most code in on GitHub.
 </details>
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/nanda_kshr"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
