@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">SKILLS ON........................</p>
+<p align="left">SKILLS ON</p>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I AM IN...........</p>
+<p align="left">I AM IN</p>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<p align="left">I AM USER OF .........</p>
+<p align="left">I AM USER OF</p>
 
 ###
 
