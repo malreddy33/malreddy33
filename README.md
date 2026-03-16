@@ -1,96 +1,130 @@
-<img src="https://github.com/malreddy33/malreddy33/blob/main/images/github_banner.png">
+<!-- Banner -->
 
-# 🚀 Malreddy Pedaballi
-### B.Tech CSE (Artificial Intelligence) Student | Aspiring AI & Software Developer 🇮🇳
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Malreddy%20Pedaballi&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-📌 Passionate about AI-driven solutions, secure systems, and practical software development.  
-📌 Currently focused on Machine Learning, DSA, Backend Development & Intelligent Systems.
+<!-- Typing Animation -->
 
----
-
-## 👨‍🎓 Education
-🎓 B.Tech – Computer Science & Engineering (Artificial Intelligence)  
-📍 2nd Year Student | India
+<h2 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Machine+Learning+Learner;Backend+Developer;Cybersecurity+Enthusiast;Future+Software+Engineer"/>
+</h2>
 
 ---
 
-## 🧩 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/malreddy_307/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/malreddy-pedaballi-1a81b02b1/)
-[![GitHub](https://img.shields.io/badge/GitHub-malreddy33-black?style=for-the-badge&logo=github)](https://github.com/malreddy33)
+# 👨‍💻 About Me
+
+🎓 B.Tech CSE (Artificial Intelligence) Student  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+🔐 Learning Cybersecurity & Secure Systems  
+💻 Practicing Data Structures & Algorithms  
+🚀 Goal: Become a Software Engineer  
 
 ---
 
-## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/malreddy_307?theme=dark&font=baloo&ext=contest)
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=malreddy33&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
 
 ---
 
-## 💼 Projects
+# 🌐 Connect With Me
 
-### 🔐 Safe Share – Secure File Sharing using ECC + AES
-- Hybrid encryption based secure file sharing system.
-- ECC for key exchange & AES for file encryption.
-- Focused on secure transmission & privacy.
+<p align="center">
 
-**Tech:** Python, Cryptography
+<a href="https://leetcode.com/u/malreddy_307/">
+<img src="https://img.shields.io/badge/LeetCode-malreddy_307-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/malreddy-pedaballi">
+<img src="https://img.shields.io/badge/LinkedIn-malreddy--pedaballi-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### 📊 Inventory Optimization using Holt-Winters & MLR
-- Forecasting demand using time series analysis.
-- Built regression models for stock prediction.
-- Reduced overstock & shortage risks.
+<a href="https://github.com/malreddy33">
+<img src="https://img.shields.io/badge/GitHub-malreddy33-black?style=for-the-badge&logo=github"/>
+</a>
 
-**Tech:** Python, Pandas, Scikit-Learn
-
----
-
-### 🌐 Web Development Practice
-- Login Authentication Systems
-- API-based Applications
-- Responsive Web UI
-
-**Tech:** HTML, CSS, JavaScript, Flask/Django (Learning)
+</p>
 
 ---
 
-## 🧠 Skills
+# 🏅 LeetCode Achievements
 
-### 👨‍💻 Programming
-- Python
-- C
-- Java
-- JavaScript (Basics)
+<p align="center">
 
-### 🤖 AI & Data Science
-- Machine Learning Basics
-- Pandas
-- NumPy
-- Scikit-Learn
-- Data Analysis
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=malreddy_307&theme=dark"/>
 
-### 🌐 Web Development
-- HTML5
-- CSS3
-- Backend Basics (Flask / Django REST)
-
-### 🛠 Tools
-- Git & GitHub
-- Linux
-- VS Code
-- Postman
-- Figma (Basic)
+</p>
 
 ---
 
+# 📊 LeetCode Stats
 
-## 🎯 Current Focus
-- Data Structures & Algorithms (LeetCode)
-- Backend Development & APIs
-- AI Mini Projects
-- Internship Preparation
+<p align="center">
+
+<img height="180" src="https://leetcard.jacoblin.cool/malreddy_307?theme=dark&font=baloo&ext=contest"/>
+
+</p>
 
 ---
 
-⭐ Always learning, building, and improving through real-world projects.
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=malreddy33&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malreddy33&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malreddy33&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malreddy33&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+🚀 Data Structures & Algorithms (LeetCode)  
+🤖 AI & Machine Learning Projects  
+🌐 Backend Development  
+💼 Internship Preparation  
+
+---
+
+<p align="center">
+⭐ Always learning, building and improving through real-world projects.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
